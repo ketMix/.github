@@ -1,1 +1,1 @@
-Home of @kettek and @liqMix's collaborative projects.
+Home of [@kettek](https://github.com/kettek) and [@liqMix](https://github.com/liqMix)'s collaborative projects.
