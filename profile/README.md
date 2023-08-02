@@ -1,8 +1,8 @@
 Home of [@kettek](https://github.com/kettek) and [@liqMix](https://github.com/liqMix)'s collaborative projects.
 
 # 2023
-![Screenshot of Retromancer](retromancer.png)
+[Retromancer ![Screenshot of Retromancer](https://raw.githubusercontent.com/ketMix/.github/main/profile/retromancer.png)](https://github.com/ketMix/retromancer)
 
 # 2022
 
-![Screenshot of MAG(net)](magnet.png)
+[MAG(net) ![Screenshot of MAG(net)](https://raw.githubusercontent.com/ketMix/.github/main/profile/magnet.png)](https://github.com/ketMix/magnet)
